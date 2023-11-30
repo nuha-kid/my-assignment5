@@ -1,2 +1,2 @@
 # my-assignment5
-let's try that amigos!
+Let's try that
